@@ -1,0 +1,4 @@
+Lesson Learned
+1. Making many layers of convolutions and many hidden layers in neural network was bad idea as discriminator becomes too strong and generater was not able to learn.
+2. We can increase learning rate of generator so that it may learn faster. But can it overshoot? i don't know.
+3. 
